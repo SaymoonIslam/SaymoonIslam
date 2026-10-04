@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Saymoon Islam</h1>
-<h3 align="center">🎓 Computer Science Student | Aspiring Software Engineer</h3>
+<h3 align="center">🎓 Computer Science Student & Problem Solver</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&width=550&lines=Computer+Science+Student;Aspiring+Software+Engineer;Coding+in+Java%2C+C%2FC%2B%2B+%26+Python;Building+Academic+%26+Personal+Projects" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&width=550&lines=Computer+Science+Student;Problem+Solver+%26+Tech+Enthusiast;Coding+in+Java%2C+C%2FC%2B%2B+%26+Python;Building+Academic+%26+Personal+Projects" alt="Typing SVG" />
 </p>
 
 <p align="center">
