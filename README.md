@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Saymoon Islam</h1>
-<h3 align="center">Software Developer & Problem Solver</h3>
+<h3 align="center">🎓 Computer Science Student & Aspiring Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&width=500&lines=Passionate+Software+Developer;Java+%26+JavaFX+Enthusiast;C%2FC%2B%2B+%26+Python+Coder;Building+Modern+Web+%26+Desktop+Apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&width=550&lines=Computer+Science+Student;Passionate+Learner+%26+Problem+Solver;Coding+in+Java%2C+C%2FC%2B%2B+%26+Python;Building+Academic+%26+Personal+Projects" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -13,11 +13,11 @@
 ---
 
 ### 💫 About Me
-- 🔭 **Currently working on:** Desktop applications (Java/JavaFX) & Modern Web Development.
-- 🌱 **Learning & Exploring:** Advanced Algorithms, Object-Oriented Architecture & Full-Stack Development.
-- 💻 **Tech Stack:** Java, JavaFX, C, C++, Python, HTML5, CSS3.
-- 💡 **Passionate about:** Clean, maintainable code, interactive UI design, and problem solving.
-- 💬 **Ask me about:** Java, JavaFX, C++, Web Design & OOP.
+- 🎓 **Current Status:** Computer Science / Engineering Student.
+- 🔭 **Current Focus:** Academic coursework, Data Structures, Algorithms & Project Development.
+- 🌱 **Currently Learning:** Object-Oriented Programming (Java/JavaFX), C/C++, Python & Modern Web Development.
+- 💡 **Interests:** Problem Solving, Clean Code, Desktop & Web Application Development.
+- 💬 **Ask me about:** Java, JavaFX, C/C++, Basic Web Design.
 - 📫 **Contact Me:** `saymoonislamr55@gmail.com`
 
 ---
@@ -32,7 +32,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 </p>
 
-#### 🌐 Frontend & UI Development
+#### 🌐 Frontend & UI Technologies
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
