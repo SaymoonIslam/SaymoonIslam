@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Saymoon Islam</h1>
-<h3 align="center">🎓 Computer Science Student & Aspiring Developer</h3>
+<h3 align="center">🎓 Computer Science Student & Problem Solver</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&width=550&lines=Computer+Science+Student;Passionate+Learner+%26+Problem+Solver;Coding+in+Java%2C+C%2FC%2B%2B+%26+Python;Building+Academic+%26+Personal+Projects" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&width=550&lines=Computer+Science+Student;Problem+Solver+%26+Tech+Enthusiast;Coding+in+Java%2C+C%2FC%2B%2B+%26+Python;Building+Academic+%26+Personal+Projects" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -13,11 +13,11 @@
 ---
 
 ### 💫 About Me
-- 🎓 **Current Status:** Computer Science / Engineering Student.
-- 🔭 **Current Focus:** Academic coursework, Data Structures, Algorithms & Project Development.
-- 🌱 **Currently Learning:** Object-Oriented Programming (Java/JavaFX), C/C++, Python & Modern Web Development.
-- 💡 **Interests:** Problem Solving, Clean Code, Desktop & Web Application Development.
-- 💬 **Ask me about:** Java, JavaFX, C/C++, Basic Web Design.
+- 🎓 **Current Status:** Computer Science / Engineering Student & Problem Solver.
+- 🔭 **Current Focus:** Data Structures, Algorithms, Problem Solving & Academic Projects.
+- 🌱 **Languages & Skills:** Java, JavaFX, C, C++, Python, HTML5, CSS3.
+- 💡 **Interests:** Algorithm Design, Clean Code, Desktop & Web Application Development.
+- 💬 **Ask me about:** Java, JavaFX, C/C++, Data Structures & Web Design.
 - 📫 **Contact Me:** `saymoonislamr55@gmail.com`
 
 ---
